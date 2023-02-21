@@ -1,0 +1,5 @@
+Shell Command, Shell Script - practice
+xv6 Basics 
+Scheduling - book
+IPC - book
+Memory Management (xv6 Memory Management) - slide
